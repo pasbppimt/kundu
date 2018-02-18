@@ -1,0 +1,130 @@
+/*
+hgroup{
+    width:70%;
+    float:left;
+}
+
+nav{
+    width:20%;
+    float:right;
+}
+nav ul{
+    list-style-type: none;
+}
+nav li{
+    float:left;
+    margin-right:12px;
+}
+header{
+    width : 80%;
+    background-color: black;
+    color:white;
+    margin-left:auto;
+    margin-right: auto;
+    padding-left: 10px;
+    border-color:black;
+    border-style:solid;
+    padding-bottom: 2px;
+    overflow:hidden;
+}
+section{
+    width:80%;
+    background-color: white;
+    border-color:black;
+    border-style:solid;
+    margin-left:auto;
+    margin-right: auto;
+    padding-left:10px;
+    
+    
+}
+
+h1{
+    color:red;
+}
+footer{
+    width: 80%;
+    font-size: 12;
+    color:white;
+    background-color: black;
+    margin-left:auto;
+    margin-right: auto;
+    padding-left: 16px;
+}
+*/
+p{
+    font-size: 1em;
+}
+footer{
+    font-size: 10px;
+    
+}
+aside{
+    width:80%;
+    margin-right:auto;
+    margin-left:auto;
+    font-size:2.2em;
+    background:red;
+    padding:20px;
+    border: 1px solid #696;
+    border-radius: 20px;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 60px;
+    
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    font-style: italic;
+}
+.row{
+    font-size: 2em;
+}
+#first{
+    padding-bottom: 20px;
+}
+#head{
+    font-style: italic;
+    color: red;
+}
+#same{
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#whole{
+    display: inline-block;
+    font-size: 1.1em;
+}
+#some{
+    font-style: italic;
+    font-size: 1.6em;
+    color: red;
+}
+hgroup{
+    padding-left: 20px;
+}
+#item{
+    margin-right: 10px;
+}
+hgroup h4{
+    font-size: 2.2em;
+    font-style: initial;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    padding-top: 10px;
+    color: yellow;
+    font-weight: bold;
+}
+#fig{
+    padding-bottom: 10px;
+}
+#listitems{
+    font-size: 2em;
+}
